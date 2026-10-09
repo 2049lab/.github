@@ -14,7 +14,7 @@
 
 A framework for multimodal long-term memory. PersonOS connects video, images, and conversations to people and episodic records, and retrieves answers with supporting evidence. It provides a memory layer for applications such as robots, smart glasses, and personal agents.
 
-[Package & documentation](https://pypi.org/project/personos/) · [Repository](https://github.com/2049lab/personos) *(access required)*
+[Website](https://personos-ai.com/) · [PyPI](https://pypi.org/project/personos/) · [Repository](https://github.com/2049lab/personos) *(access required)*
 
 ## Contact
 

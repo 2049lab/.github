@@ -14,7 +14,7 @@
 
 多模态长期记忆框架。PersonOS 将视频、图片和对话关联到人物与情景记录，在回答问题时返回支持答案的证据，为机器人、智能眼镜和个人 Agent 等应用提供记忆能力。
 
-[安装与文档](https://pypi.org/project/personos/) · [代码仓库](https://github.com/2049lab/personos)（需要访问权限）
+[官方网站](https://personos-ai.com/) · [PyPI](https://pypi.org/project/personos/) · [代码仓库](https://github.com/2049lab/personos)（需要访问权限）
 
 ## 联系
 
