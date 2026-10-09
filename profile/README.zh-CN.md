@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://pypi.org/project/personos/">PyPI 安装</a> ·
-  <a href="https://github.com/2049lab/personos">PersonOS 仓库</a> ·
   <a href="https://github.com/2049lab/.github/issues">问题与反馈</a> ·
   <a href="https://github.com/2049lab">English</a>
 </p>
@@ -26,7 +25,7 @@ personos doctor
 
 基础功能使用本地 SQLite 存储，需要配置模型服务。视频处理和人物识别需要额外依赖及模型配置；安装步骤和示例见 [PyPI 包文档](https://pypi.org/project/personos/)。
 
-Python 包已在 PyPI 发布，源码仓库目前需要访问权限。
+Python 包已在 PyPI 发布，[源码仓库](https://github.com/2049lab/personos)目前需要访问权限。
 
 PersonOS 是实验室在这一愿景下开展的一个项目。欢迎与我们讨论 AI 时代以人为本的交互体验，分享应用场景和合作想法。
 
